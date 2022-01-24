@@ -1,0 +1,12 @@
+gsm.c:20:5:GSM_GetCharFromBuffer	4	static
+gsm.c:28:5:GSM_GetLineFromBuffer	16	static
+gsm.c:45:6:GSM_UartReceiveChar	16	static
+gsm.c:67:6:GSM_ParseNumber	16	static
+gsm.c:83:6:GSM_ParseMode	16	static
+gsm.c:102:6:GSM_Read	16	static
+gsm.c:107:6:GSM_SelectNumber	8	static
+gsm.c:112:6:GSM_ParseLine	16	static
+gsm.c:134:6:GSM_LocateMessage	88	static
+gsm.c:140:6:GSM_Work	8	static
+gsm.c:147:6:GSM_Init	16	static
+gsm.c:152:6:GSM_SendMessage	16	static
